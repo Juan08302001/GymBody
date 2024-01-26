@@ -1,0 +1,61 @@
+.fondo{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+}
+.formulario{
+    background-color: rgba(255,255,255,0.5);
+    height: 380px;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 110px;
+    border-radius: 10px;
+}
+.text-light{
+    background-color: #000;
+    text-align: center;
+}
+.caja{
+    width: 90%;
+    color: #000;
+    font-size: 15px;
+border: 1px solid #000;
+border-radius: 10px;
+}
+
+.input-group-text{
+border: 1px solid #000;
+border-radius: 10px;
+background-color: #000;
+color: white;
+}
+.input-group{
+    margin-top: 20px;
+    text-align: center;
+}
+.entrar{
+    margin-top: 30px;
+    background-color: #000;
+    color: white;
+    width: 60%;
+    margin-left: 85px;
+    font-size: 18px;
+    padding: 10px;
+
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.entrar:hover{
+    color: red;
+}
+
+.olvide{
+    margin-top: 300px;
+    text-decoration: none;
+    color:black;
+    font-size: 17px;
+    margin-left: 370px;
+}
+.olvide:hover{
+    color: red;
+}
